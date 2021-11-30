@@ -56,15 +56,3 @@ select email, cellno
 from student, course
 where student.course_id = course.course_id and course_title = "Computer Science";
 
-
-
-
-
-
-
-
-
-
-
-
-
